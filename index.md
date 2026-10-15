@@ -9,9 +9,14 @@ The projects included in this portfolio demonstrate my experience with software 
 
 My professional self-assessment will provide an overview of my education, technical skills, professional goals, and experiences throughout the Computer Science program.
 
+
 ## Code Review
 
-This section will include my code review video, which examines my original projects and explains the improvements planned for each artifact.
+For my CS-499 capstone, I completed a code review of the three projects selected for my ePortfolio. The review covers my C++ graphics application, Advising Assistance Program, and Android Event Tracker application.
+
+During the presentation, I discuss the existing functionality of each project, identify areas for improvement, and explain the enhancements I planned for software design and engineering, algorithms and data structures, and databases.
+
+[Watch My CS-499 Code Review Video](https://youtu.be/KFU5v2KoiR8)
 
 
 ## Software Design and Engineering
