@@ -46,6 +46,20 @@ This enhancement demonstrates my ability to select appropriate data structures, 
 [Read Enhancement Narrative](Algorithms/Narrative.html)
 
 
+
 ## Databases
 
-This section will showcase my database enhancement, including the original and enhanced artifact and a narrative explaining the changes.
+For my third enhancement, I selected the Event Tracker Android application that I originally developed in CS 360: Mobile Architect and Programming. The application uses Java and SQLite to manage user accounts and event information.
+
+I enhanced the database by connecting events to individual user accounts and restricting event retrieval, updates, and deletes to the appropriate user. I also added event searching and sorting, improved password storage using hashing, and implemented a database upgrade process.
+
+This enhancement demonstrates my understanding of database relationships, data management, security, and how database changes affect other parts of an application.
+
+[View Database Enhancement Project](Databases/)
+
+[View Original Source Code](https://github.com/LJones1096/LJones1096.github.io/tree/main/Databases/Original)
+
+[View Enhanced Source Code](https://github.com/LJones1096/LJones1096.github.io/tree/main/Databases/Enhanced)
+
+[Read Enhancement Narrative](Databases/Narrative.html)
+
