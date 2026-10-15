@@ -22,9 +22,9 @@ This enhancement demonstrates my ability to improve existing software, implement
 
 [View Software Design and Engineering Project](Software-Design/)
 
-[View Original Source Code](Software-Design/Original/)
+[View Original Source Code](https://github.com/LJones1096/LJones1096.github.io/tree/main/Software-Design/Original)
 
-[View Enhanced Source Code](Software-Design/Enhanced/)
+[View Enhanced Source Code](https://github.com/LJones1096/LJones1096.github.io/tree/main/Software-Design/Enhanced)
 
 [Read Enhancement Narrative](Software-Design/Narrative.html)
 
