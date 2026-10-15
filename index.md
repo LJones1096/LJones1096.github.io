@@ -31,9 +31,6 @@ This enhancement demonstrates my ability to improve existing software, implement
 
 ## Algorithms and Data Structures
 
-
-## Algorithms and Data Structures
-
 For this enhancement, I selected my Advising Assistance Program from CS 300: Data Structures and Algorithms. The original program used a binary search tree to organize course information and display prerequisites.
 
 I improved the program by adding recursive prerequisite traversal, circular dependency detection, and an unordered_map for faster course lookups. I also added duplicate course detection and improved input validation.
