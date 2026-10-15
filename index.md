@@ -26,7 +26,7 @@ This enhancement demonstrates my ability to improve existing software, implement
 
 [View Enhanced Source Code](Software-Design/Enhanced/)
 
-[Read Enhancement Narrative](Software-Design/Jones_Liam_Module_3%20%281%29.docx)
+[Read Enhancement Narrative](Software-Design/Narrative.html)
 
 
 ## Algorithms and Data Structures
