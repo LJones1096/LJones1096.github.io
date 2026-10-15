@@ -40,4 +40,4 @@ Overall, I think the enhancement improved the project without changing what I li
 ## AI Use Statement
 
 I used Grammarly to assist with grammar and spelling. I also used ChatGPT to generate the Arcade Ready image used as part of the enhanced artifact.
-D
+
