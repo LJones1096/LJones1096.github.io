@@ -31,7 +31,23 @@ This enhancement demonstrates my ability to improve existing software, implement
 
 ## Algorithms and Data Structures
 
-This section will demonstrate my work with algorithms and data structures, including the original artifact, improvements, and reflection on the enhancement process.
+
+## Algorithms and Data Structures
+
+For this enhancement, I selected my Advising Assistance Program from CS 300: Data Structures and Algorithms. The original program used a binary search tree to organize course information and display prerequisites.
+
+I improved the program by adding recursive prerequisite traversal, circular dependency detection, and an unordered_map for faster course lookups. I also added duplicate course detection and improved input validation.
+
+This enhancement demonstrates my ability to select appropriate data structures, develop algorithms, and improve existing software through testing and problem-solving.
+
+[View Algorithms and Data Structures Project](Algorithms/)
+
+[View Original Source Code](https://github.com/LJones1096/LJones1096.github.io/tree/main/Algorithms/Original)
+
+[View Enhanced Source Code](https://github.com/LJones1096/LJones1096.github.io/tree/main/Algorithms/Enhanced)
+
+[Read Enhancement Narrative](Algorithms/Narrative.html)
+
 
 ## Databases
 
