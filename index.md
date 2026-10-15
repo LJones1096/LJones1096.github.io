@@ -13,9 +13,21 @@ My professional self-assessment will provide an overview of my education, techni
 
 This section will include my code review video, which examines my original projects and explains the improvements planned for each artifact.
 
+
 ## Software Design and Engineering
 
-This section will highlight my software design and engineering enhancement, including the original project, enhanced code, and accompanying narrative.
+For this enhancement, I selected my 3D arcade project from CS 330: Computational Graphics and Visualization. I improved the organization of the C++ and OpenGL code by separating rendering tasks into smaller methods. I also added proximity-based interaction that allows users to interact with the arcade cabinet using the F key.
+
+This enhancement demonstrates my ability to improve existing software, implement new functionality, and test changes without affecting the original features.
+
+[View Software Design and Engineering Project](Software-Design/)
+
+[View Original Source Code](Software-Design/Original/)
+
+[View Enhanced Source Code](Software-Design/Enhanced/)
+
+[Read Enhancement Narrative](Software-Design/Jones_Liam_Module_3%20%281%29.docx)
+
 
 ## Algorithms and Data Structures
 
